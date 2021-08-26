@@ -1,0 +1,51 @@
+.main{
+    background-color:#F0F0F0;
+	float:left;
+	padding:0;
+	width:100%;
+	padding-bottom: 20%;
+}
+
+.white{
+	background-color:white;
+	width:100%;
+	padding:10px;
+	border-radius:5px;
+	margin-top: 12px;
+	margin-bottom: 12px;
+	padding-left:20px;
+    float:left;
+}
+
+.text-fields{
+	border:none;
+	border-bottom:1px solid black;
+	width:90%;	
+}
+
+.text-fields :focus{
+    border:none;
+}
+
+.start{
+	width:100%;
+	padding:10px;
+    float:left;
+}
+
+.text{
+	float: left;
+}
+
+.btn-success{
+	float: right;
+}
+
+.content{
+	width: 100%; 
+	padding-left: 5%; 
+	padding-right:5%;
+	margin-top:2%;
+	padding-bottom: 10%;
+}
+
